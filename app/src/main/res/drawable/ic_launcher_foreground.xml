@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Icono: dos marcadores enfrentados (rojo y azul) separados por la línea dorada,
+     con barras de amarracos. Lienzo 108x108, contenido dentro de la zona segura central. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <!-- línea central dorada -->
+    <path android:fillColor="#E8B94A" android:pathData="M53,30h2v48h-2z" />
+    <!-- lado izquierdo: amarracos rojos -->
+    <path android:fillColor="#E0533F" android:pathData="M33,38h14a3,3 0 0 1 0,6h-14a3,3 0 0 1 0,-6z" />
+    <path android:fillColor="#E0533F" android:pathData="M33,51h14a3,3 0 0 1 0,6h-14a3,3 0 0 1 0,-6z" />
+    <path android:fillColor="#E0533F" android:pathData="M33,64h8a3,3 0 0 1 0,6h-8a3,3 0 0 1 0,-6z" />
+    <!-- lado derecho: amarracos azules -->
+    <path android:fillColor="#4A8AE0" android:pathData="M61,38h14a3,3 0 0 1 0,6h-14a3,3 0 0 1 0,-6z" />
+    <path android:fillColor="#4A8AE0" android:pathData="M61,51h8a3,3 0 0 1 0,6h-8a3,3 0 0 1 0,-6z" />
+</vector>

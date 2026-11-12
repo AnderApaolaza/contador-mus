@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Contador Mus</string>
+    <color name="fondo">#0D1712</color>
+    <color name="icono_fondo">#123222</color>
+</resources>
